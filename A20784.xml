@@ -269,9 +269,13 @@ generall. <hi>Francis Drake.</hi>
             </p>
             <p>4. <hi>The Swanne.</hi> a fliboat of 50. tonnes. Captaine <hi>Iohn Cheſter.</hi>
             </p>
-            <figure>
-               <p>A New and accurate <hi>Mappe</hi> of the <hi>World,</hi> drawne according to the beſt and lateſt diſcoveries that have beene made.</p>
-            </figure>
+            <p>
+               <pb facs="tcp:5654:4"/>
+               <pb facs="tcp:5654:5"/>
+               <figure>
+                  <p>A New and accurate <hi>Mappe</hi> of the <hi>World,</hi> drawne according to the beſt and lateſt diſcoveries that have beene made.</p>
+               </figure> 
+            </p>
             <p>
                <pb facs="tcp:5654:6"/>
                <pb n="3" facs="tcp:5654:6"/>
